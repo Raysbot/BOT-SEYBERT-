@@ -1,4 +1,35 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+<P align="center">
+<img src="https://i.pinimg.com/originals/2c/87/c7/2c87c7b027e0209b6d878b03f4bc1738.gif" width="29px"> Pelear no siempre es malo<img src="https://giffiles.alphacoders.com/116/116006.gif" width="29px">
+
+<div align="center">
+ `⚔️  THE SEIBERT BOT  🛡️`
+
+<div align="center">
+<img src="https://wallpaperaccess.com/full/2461914.jpg"  width="500" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="left">
+ `—◉ 🔗 CUENTAS OFICIALES 🔗`
 
 ### `—◉ 🔗 CUENTAS OFICIALES 🔗`
 
