@@ -20,13 +20,13 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭* —◉
+║    ◉— *𝐓𝐡𝐞 SEYBERT BOT* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* Bruno Sobrino
-║➤ *Numero:* wa.me/5219992095479
-║➤ *Bot ofc:* wa.me/5219991402134
+║➤ *Owner:* RAYSERD REIK
+║➤ *Numero:* wa.me/51910891669
+║➤ *Bot ofc:* wa.me/46726414573
 ║➤ *PayPal:* https://www.paypal.me/TheShadowBrokers133
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
